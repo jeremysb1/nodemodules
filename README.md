@@ -1,3 +1,3 @@
 # nodemodules
 
-Working with ES6 and modules in Node.js
+Building a server, and working with ES6 and modules in Node.js
